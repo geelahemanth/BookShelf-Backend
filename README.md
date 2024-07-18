@@ -5,7 +5,7 @@
 
 BookShelf Backend is a robust backend system designed to manage and provide comprehensive information about books.
 
-BookWise Backend ensures seamless integration with various front-end applications and platforms what is it means what is mean ensures seamless interation meaning
+BookWise Backend ensures seamless integration with various front-end applications and platforms.
 
 
 ### Features
