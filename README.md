@@ -1,4 +1,4 @@
-![black](https://github.com/user-attachments/assets/9f2b9e11-c279-48cc-8462-b571eeca960e)
+![black](https://github.com/user-attachments/assets/a88f4fb3-8501-4df0-af41-38aef07d2401)
 
 
 ## Project Description: BookShelf Backend
