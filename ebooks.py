@@ -1,5 +1,9 @@
 from flask import Flask
 import requests
+from config import api_key
+
+
+
 
 app=Flask(__name__)
 
@@ -7,7 +11,7 @@ app=Flask(__name__)
 def home():
     
     book_name=input("Search of your favorite book :")
-    url=f'https://www.googleapis.com/books/v1/volumes?q={book_name}&key=AIzaSyA_W_F3j3e6cC94bHmBnL5VOw8vG1UuIho'
+    url=f'https://www.googleapis.com/books/v1/volumes?q={book_name}&key={api_key}'
     
     response=requests.get(url)
     if response.status_code ==200:
